@@ -17,9 +17,10 @@ int main() {
             }
         }
     }
-    printf("Sorted array (Ascending): ");
+    printf("Sorted array: ");
     for(i = 0; i < n; i++) {
         printf("%d ", a[i]);
     }
 return 0;
+
 }
